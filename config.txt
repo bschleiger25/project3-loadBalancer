@@ -1,0 +1,9 @@
+servers=10
+cycles=10000
+minQueuePerServer=40
+maxQueuePerServer=70
+adjustDelay=10
+newRequestProb=0.05
+minRequestTime=2
+maxRequestTime=12
+blockedRanges=192.168.,10.0.,172.16.
